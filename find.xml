@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[backend_test] - ...\backend\src\test'" />
-    <option name="defaultScopeName" value="Directory '[backend_test] - ...\backend\src\test'" />
-    <option name="SEARCH_SCOPE" value="Directory '[backend_test] - ...\backend\src\test'" />
+    <option name="customScope" value="Project 'vet-analysis'" />
+    <option name="defaultScopeName" value="Project 'vet-analysis'" />
+    <option name="SEARCH_SCOPE" value="Project 'vet-analysis'" />
   </component>
 </application>
