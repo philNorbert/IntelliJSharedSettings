@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="PMD" description=" PMD, good for what ails you." showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="H:\Projetos Pessoais\MPES\pmd-bin-5.8.1\bin\pmd.bat" />
+      <option name="PARAMETERS" value=" &quot;$FilePath$&quot; ideaj basic, braces, clone, codesize ,comments, controversial, coupling, ,design ,empty, finalizers ,imports ,j2ee, javabeans ,junit ,logging-jakarta-commons, logging-java, migrating, naming ,optimizations ,strictexception ,strings ,sunsecure ,typeresolution ,unnecessary ,unusedcode &quot;$Sourcepath$&quot; $FileClass.method $FileName$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
