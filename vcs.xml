@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/sergiofigueras/vet-analysis.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/avjinder/Minimal-Todo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="H:\Projetos Pessoais\MPES" />
+    <option name="cloneParentDir" value="D:\GitCESAR" />
   </component>
 </application>
